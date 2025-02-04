@@ -188,7 +188,7 @@ nav {
 
 .header__image::after {
   position: absolute;
-  content: "MICHAEL";
+
   letter-spacing: 1.5rem;
   opacity: 0.5;
   right: 1rem;
